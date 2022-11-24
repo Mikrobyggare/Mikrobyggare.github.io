@@ -4,9 +4,9 @@ import ReactDOM from 'react-dom';
 class App extends React.Component {
   render() {
     return (
-      <div className="page">
-        <h1>Harborer History</h1>
-      </div>
+        <body>
+            <h1></h1>
+        </body>
     );
   }
 };
